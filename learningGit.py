@@ -1,4 +1,4 @@
-__name__ = 'Jora Singh Randhawa'
-__author__ = 'jorasinghr@gmail.com'
+__author__ = 'Jora Singh Randhawa'
+__email__ = 'jorasinghr@gmail.com'
 
 print('Hello World')
